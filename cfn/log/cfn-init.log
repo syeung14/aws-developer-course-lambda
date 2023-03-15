@@ -1,0 +1,13 @@
+2023-03-15 18:12:24,040 [INFO] -----------------------Starting build-----------------------
+2023-03-15 18:12:24,368 [INFO] Running configSets: default
+2023-03-15 18:12:24,368 [INFO] Running configSet default
+2023-03-15 18:12:24,368 [INFO] Running config config
+2023-03-15 18:12:28,400 [WARNING] Unsupported OS for setting owner/group: nt
+2023-03-15 18:12:28,400 [WARNING] Unsupported OS for setting owner/group: nt
+2023-03-15 18:12:28,446 [INFO] IO redirection is working. Redirecting the output to logs
+2023-03-15 18:12:28,525 [INFO] Command 1-Change-Password succeeded
+2023-03-15 18:12:28,525 [INFO] Waiting 60 seconds for reboot
+2023-03-15 18:13:28,525 [INFO] ConfigSets completed
+2023-03-15 18:13:28,525 [INFO] -----------------------Build complete-----------------------
+2023-03-15 18:13:28,947 [DEBUG] CloudFormation client initialized with endpoint https://cloudformation.us-east-1.amazonaws.com
+2023-03-15 18:13:28,947 [DEBUG] Signaling resource ideInstance in stack LabStack-48ea563b-794e-4b25-964f-1bcaa40af20e-hHz3LuMxV3Xz6FA8uLr4Lk-0-WindowsInstance-61N705I95XHC with unique ID i-035feed7e7fdc42e3 and status SUCCESS
